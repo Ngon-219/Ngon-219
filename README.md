@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Ngon!
 
-<!--
-**Ngon-219/Ngon-219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 **About Me**
+- 💼 Currently working as: backend web developer
+- 🎓 Educational now: Hanoi University of Civil Engineering
+- 🌍 Based in: Viet Nam
 
-Here are some ideas to get you started:
+## 💻 **Skills**
+- **Programming Languages**: JavaScript, java,...
+- **Frameworks & Tools**: nodejs, expressjs, nestjs,...
+- **Other Skills**: Database Design, Git,...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 **What I'm Learning**
+- Improving in programming skills, database design, optimizeration code
+- Experimenting with tool of devops
+
+## 📫 **How to Reach Me**
+- ✉️ Email: vucongngon219@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- 🌐 Website: [Your Personal Website](https://your-website.com)
+
+## 💡 **Fun Facts**
+- 🚴‍♂️ I enjoy badminton.
+- 📖 Favorite book: [[Your favorite book or genre]](https://www.linkedin.com/in/ng%C3%B4n-v%C5%A9-c%C3%B4ng-8a8166313/).
+- 🎮 Gamer: valorant.
+
